@@ -23,7 +23,7 @@
 - Acessar a pasta com com o nome da unidade curricular, **PPDM**:
 - Criar uma pasta com o nome **aula07**
 - Dentro da pasta **aula07** iniciar o VSCode e criar o projeto abaixo:
-    - `npx create-expo-app app-file-json`
+    - `npx create-expo-app app-file-json -t`
 
 ### 2.2. Dependências
 - Componentes:
